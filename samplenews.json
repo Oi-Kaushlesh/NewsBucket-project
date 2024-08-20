@@ -1,0 +1,112 @@
+{
+  "status": "ok",
+  "totalResults": 11,
+  "articles": [
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "Alice Lahoda",
+      "title": "24 Brilliant Movie Fan Theories That Change Everything",
+      "description": "BRB, asking my boss for the week off so I can rewatch all 24 of these movies, STAT.",
+      "url": "https://www.buzzfeed.com/alicelahoda/brilliant-fan-theories-movies-reddit",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-06/12/15/enhanced/1b24506b445a/original-622-1686582827-2.jpg?crop=1244:651;0,23%26downsize=1250:*",
+      "publishedAt": "2023-06-14T11:22:20.8640911Z",
+      "content": null
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Carrie Marshall",
+      "title": "Pluto TV's getting a huge makeover to help find your next favorite TV shows and movies",
+      "description": "Pluto TVs are getting a brand new interface to recommend great shows and movies",
+      "url": "https://www.techradar.com/news/pluto-tvs-getting-a-huge-makeover-to-help-find-your-next-favorite-tv-shows-and-movies",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/y4miGGr5LUXCF7hmaqrcy7-1200-80.png",
+      "publishedAt": "2023-06-14T10:23:11Z",
+      "content": "We've got good news for Pluto TV viewers: there's a brand new interface coming, and it could be on your TV or other device in the next few weeks. \r\nSpeaking to the Stream TV Show this week, Paramount… [+2035 chars]"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Tom Power",
+      "title": "Netflix Tudum 2023: how to watch, start date and time, movies, TV shows and more",
+      "description": "Netflix Tudum is being held on Saturday, June 17",
+      "url": "https://www.techradar.com/news/netflix-tudum-2023-how-to-watch-start-date-and-time-movies-tv-shows-and-more",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wyFLs5M5TYKEH77qHPSwJh-1200-80.jpg",
+      "publishedAt": "2023-06-14T08:00:00Z",
+      "content": "Netflix Tudum is right around the corner. The streaming giant's annual global fan event, which began in January 2020, is back for its fifth outing this year – and if you're anything like us, you'll b… [+6492 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Carla Mascarenhas",
+      "title": "Teen dies two hours after getting married",
+      "description": "<p>It&rsquo;s a story with a plot fit for a movie.</p>",
+      "url": "https://www.news.com.au/world/asia/teen-millionaire-dies-two-hours-after-getting-married/news-story/07735c6bae2a1c71f2bc9c6926f68dee",
+      "urlToImage": "https://content.api.news/v3/images/bin/2f0a854c011d6c08bb07e3010b3ddafd",
+      "publishedAt": "2023-06-14T04:12:00Z",
+      "content": "It’s a story with a plot fit for a movie.\r\nA Taiwanese teenager, who had recently become heir to an estate worth a cool $24 million, was found dead at the foot of a building two hours after he regist… [+1796 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Petrana Radulovic",
+      "title": "New Pixar movie Elio gets first alien-filled trailer",
+      "description": "The newest Pixar movie Elio follows a young boy who gets beamed up by aliens — giving reverse Lilo and Stitch vibes. It’s set to come out next March.",
+      "url": "https://www.polygon.com/23759802/elio-pixar-movie-trailer-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KUta5gOA3aMQ1VJMeGnn6wmS-Zk=/0x0:1794x939/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24725181/image003__1_.png",
+      "publishedAt": "2023-06-13T20:10:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Petrana Radulovic",
+      "title": "Mario movie behind-the-scenes clip has Jack Black gushing over Bowser",
+      "description": "The Super Mario Bros. Movie is out on DVD and Blu-Ray today and it includes special features, like this clip of Jack Black gushing about Bowser.",
+      "url": "https://www.polygon.com/23759490/super-mario-bros-movie-jack-black-bowser-dvd-blu-ray",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Cd-oi5LNvQsFxKxPdRgggI32ZF0=/0x49:2804x1517/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24724469/jack_black_bowser.jpg",
+      "publishedAt": "2023-06-13T19:00:00Z",
+      "content": "By far, the best part of The Super Mario Bros. Movie was Bowser. Voiced by the one and only Jack Black, the movies version of the King of Koopas had a big ol soft side to him. He is a fearsome conque… [+860 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Nathan McAlone",
+      "title": "'Avatar' release dates after delay: Disney sets last movie for 2031",
+      "description": "Delays have become a running joke among fans of the franchise, as they had to wait 13 years between the first \"Avatar\" and its sequel.",
+      "url": "http://www.businessinsider.com/avatar-3-movie-sequels-release-dates-schedule-after-disney-delay-2023-6",
+      "urlToImage": "https://i.insider.com/63adb58fa51b3d00185b261b?width=1200&format=jpeg",
+      "publishedAt": "2023-06-13T17:00:14Z",
+      "content": "Did you think the delays were over for the \"Avatar\" franchise? Wrong!\r\nDisney announced a slew of delays on Tuesday that stretched from the Marvel Cinematic Universe to Pandora.\r\nHere are the new rel… [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Nathan McAlone",
+      "title": "'Avatar' release dates after delay: Disney sets last movie for 2031",
+      "description": "Delays have become a running joke among fans of the franchise, as they had to wait 13 years between the first \"Avatar\" and its sequel.",
+      "url": "http://uk.businessinsider.com/avatar-3-movie-sequels-release-dates-schedule-after-disney-delay-2023-6",
+      "urlToImage": "https://i.insider.com/63adb58fa51b3d00185b261b?width=1200&format=jpeg",
+      "publishedAt": "2023-06-13T17:00:14Z",
+      "content": "Did you think the delays were over for the \"Avatar\" franchise? Wrong!\r\nDisney announced a slew of delays on Tuesday that stretched from the Marvel Cinematic Universe to Pandora.\r\nHere are the new rel… [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "EW Staff",
+      "title": "Your guide to the 2023 TV premiere dates",
+      "description": "We'll tell you how to watch all the new and returning series, plus streaming movies.",
+      "url": "https://ew.com/tv/2023-tv-premiere-dates/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=4%2C0%2C2000%2C998&poi=%5B980%2C598%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F04%2F21%2FArtboard-4TV-PREMIERES-2000.jpg",
+      "publishedAt": "2022-11-03T20:30:00Z",
+      "content": "With warmer weather comes a new batch of shows, and we're here to help you kick your summer off right with a TV-watching schedule that will make you excited to stay indoors.\r\nMay offers up a wide arr… [+23776 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Collier Jennings",
+      "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+      "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+      "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+      "publishedAt": "2022-09-01T18:03:14Z",
+      "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+    }
+  ]
+}
