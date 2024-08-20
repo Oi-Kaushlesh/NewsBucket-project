@@ -27,7 +27,6 @@ const HomeNews = (props) => {
 
   useEffect(() => {
     fetchHomeNews();
-    // eslint-disable-next-line
   }, []);
 
   return (

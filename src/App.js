@@ -16,7 +16,6 @@ const App = () => {
         <NavBar />
         <LoadingBar height={3} color="#f11946" progress={progress} />
         <Routes>
-          {/* New Route for Tesla news on Home */}
           <Route exact path="/" element={<HomeNews setProgress={setProgress} />} />
           <Route exact path="/business" element={<News setProgress={setProgress} key="business" pageSize={pageSize} category="business" />} />
           <Route exact path="/entertainment" element={<News setProgress={setProgress} key="entertainment" pageSize={pageSize} category="entertainment" />} />
